@@ -1,4 +1,4 @@
 # Countdown Timer - JavaScript
 <br />
 
-<img src="img/preview.png" width="700px">
+<img src="img/ct-preview.png" width="700px">
